@@ -13,7 +13,7 @@ Tech Stack & Skills
 Meine Projekte
 
 1. Angular Number Guesser
- **Live Demo:** https://richardngnumberguesser.netlify.app/
+ **Live Demo:** richardnumberguesser.netlify.app
 
 Ein interaktives Logikspiel, das mein solides Verständnis für Data Binding und die Architektur von Angular-Komponenten demonstriert.
 *   Technologien: Angular, TypeScript, HTML, CSS.
