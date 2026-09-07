@@ -13,7 +13,9 @@ Tech Stack & Skills
 Meine Projekte
 
 1. Angular Number Guesser
- **Live Demo:** richardnumberguesser.netlify.app
+  
+   Live Demo:
+   https://richardnumberguesser.netlify.app/
 
 Ein interaktives Logikspiel, das mein solides Verständnis für Data Binding und die Architektur von Angular-Komponenten demonstriert.
 *   Technologien: Angular, TypeScript, HTML, CSS.
@@ -21,7 +23,9 @@ Ein interaktives Logikspiel, das mein solides Verständnis für Data Binding und
 *   Technische Details: Das Projekt nutzt TypeScript-Klassen und Konstruktoren, um die jeweiligen Tipps (Objekte) direkt bei der Erstellung mit Startwerten zu initialisieren. Die Historie der bisherigen Tipps wird dynamisch in einem Array gespeichert und auf der Benutzeroberfläche ausgegeben.
 
 2. Movie Rating App
-🔗 **Live Demo:** https://movie-rating-app-b3988.web.app/
+
+  Live Demo: 
+  https://movie-rating-app-b3988.web.app/
 
 Eine komplexere Webanwendung, die meine Fähigkeiten in der Anbindung von externen Datenbanken und Backend-Diensten unter Beweis stellt.
 *   Technologien: Angular, TypeScript, Firebase.
